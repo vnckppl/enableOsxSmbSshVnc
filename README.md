@@ -7,4 +7,4 @@ It has been tested on Mac OSX 10.12.6.
 Adter invoking the script it will test if SSH, Samba, and Remote Login are enabled. If this is the case the script will disable them. If these services are disabled, the script will enable them.
 
 Screenshot:
-![screenshot](startSharing.png)
+![screenshot](startSharing.png =300x)
