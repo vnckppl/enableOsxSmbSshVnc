@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Enable SSH - SMB - VNC - Remote Management in OSX
+# Enable SSH - SMB - Remote Management in OSX
 
 # SSH
 echo $(tput setaf 1)"SSH:"$(tput sgr0)
